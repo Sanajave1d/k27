@@ -9,36 +9,36 @@ import Footer from '../components/common/Footer'
 const Projects = () => {
   const projects = [
     {
-      image1: '../public/img/navimg/bag.jpg',
-      image2: '../public/img/navimg/running.png'
+      image1: '/img/navimg/bag.jpg',
+      image2: '/img/navimg/running.png'
     },
     {
-      image1: '../public/img/navimg/iceskate.jpg',
-      image2: '../public/img/navimg/cake.jpg'
+      image1: '/img/navimg/iceskate.jpg',
+      image2: '/img/navimg/cake.jpg'
     },
     {
-      image1: '../public/img/navimg/eye.jpg',
-      image2: '../public/img/navimg/favorbag.jpg'
+      image1: '/img/navimg/eye.jpg',
+      image2: '/img/navimg/favorbag.jpg'
     },
     {
-      image1: '../public/img/navimg/drink.jpg',
-      image2: '../public/img/navimg/beardman.jpg'
+      image1: '/img/navimg/drink.jpg',
+      image2: '/img/navimg/beardman.jpg'
     },
     {
-      image1: '../public/img/navimg/glass.jpg',
-      image2: '../public/img/navimg/hat.jpg'
+      image1: '/img/navimg/glass.jpg',
+      image2: '/img/navimg/hat.jpg'
     },
     {
-      image1: '../public/img/navimg/cat.jpg',
-      image2: '../public/img/navimg/gradient.jpg'
+      image1: '/img/navimg/cat.jpg',
+      image2: '/img/navimg/gradient.jpg'
     },
     {
-      image1: '../public/img/navimg/phone.jpg',
-      image2: '../public/img/navimg/card.jpg'
+      image1: '/img/navimg/phone.jpg',
+      image2: '/img/navimg/card.jpg'
     },
     {
-      image1: '../public/img/navimg/girl.jpg',
-      image2: '../public/img/navimg/building.jpg'
+      image1: '/img/navimg/girl.jpg',
+      image2: '/img/navimg/building.jpg'
     },
   ]
   gsap.registerPlugin(ScrollTrigger)

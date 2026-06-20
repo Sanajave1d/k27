@@ -75,13 +75,13 @@ const FullScreenNav = () => {
                         <div className='movelink pointer-events-none  absolute flex top-0 gap-0 -top-px overflow-hidden whitespace-nowrap'>
                             <div className='moveX min-w-max bg-[#F0FF7C] text-black pt-2 leading-[0.8] flex items-center'>
                                 &nbsp;<h2 className='whitespace-nowrap font-[font2] text-[9vw] uppercase'>POUR TOUT VOIR</h2>&nbsp;
-                                <img className='h-19 w-50 rounded-full object-cover' src="../public/img/navimg/bag.jpg" alt="" />
+                                <img className='h-19 w-50 rounded-full object-cover' src="/bag.jpg" alt="" />
                                 &nbsp;<h2 className='whitespace-nowrap font-[font2] text-[9vw] uppercase'>POUR TOUT VOIR</h2>&nbsp;
-                                <img className='h-19 w-50 rounded-full object-cover' src="../public/img/navimg/running.png" alt="" />
+                                <img className='h-19 w-50 rounded-full object-cover' src="/running.png" alt="" />
                                 &nbsp;<h2 className='whitespace-nowrap font-[font2] text-[9vw] uppercase'>POUR TOUT VOIR</h2>&nbsp;
-                                <img className='h-19 w-50 rounded-full object-cover' src="../public/img/navimg/bag.jpg" alt="" />
+                                <img className='h-19 w-50 rounded-full object-cover' src="/bag.jpg" alt="" />
                                 &nbsp;<h2 className='whitespace-nowrap font-[font2] text-[9vw] uppercase'>POUR TOUT VOIR</h2>&nbsp;
-                                <img className='h-19 w-50 rounded-full object-cover' src="../public/img/navimg/running.png" alt="" />
+                                <img className='h-19 w-50 rounded-full object-cover' src="/running.png" alt="" />
                             </div>
                         </div>
                     </div>
@@ -90,13 +90,13 @@ const FullScreenNav = () => {
                         <div className='movelink pointer-events-none  absolute flex top-0 gap-0 -top-px overflow-hidden whitespace-nowrap'>
                             <div className='moveX min-w-max bg-[#F0FF7C] text-black pt-2 leading-[0.8] flex items-center'>
                                 &nbsp;<h2 className='whitespace-nowrap font-[font2] text-[9vw] uppercase'>POUR TOUT SAVOIR</h2>&nbsp;
-                                <img className='h-19 w-50 rounded-full object-cover' src="../public/img/navimg/marble plain.jpg" alt="" />
+                                <img className='h-19 w-50 rounded-full object-cover' src="/marble plain.jpg" alt="" />
                                 &nbsp;<h2 className='whitespace-nowrap font-[font2] text-[9vw] uppercase'>POUR TOUT SAVOIR</h2>&nbsp;
-                                <img className='h-19 w-50 rounded-full object-cover' src="../public/img/navimg/marble plain.jpg" alt="" />
+                                <img className='h-19 w-50 rounded-full object-cover' src="/marble plain.jpg" alt="" />
                                 &nbsp;<h2 className='whitespace-nowrap font-[font2] text-[9vw] uppercase'>POUR TOUT SAVOIR</h2>&nbsp;
-                                <img className='h-19 w-50 rounded-full object-cover' src="../public/img/navimg/marble plain.jpg" alt="" />
+                                <img className='h-19 w-50 rounded-full object-cover' src="/marble plain.jpg" alt="" />
                                 &nbsp;<h2 className='whitespace-nowrap font-[font2] text-[9vw] uppercase'>POUR TOUT SAVOIR</h2>&nbsp;
-                                <img className='h-19 w-50 rounded-full object-cover' src="../public/img/navimg/marble plain.jpg" alt="" />
+                                <img className='h-19 w-50 rounded-full object-cover' src="/marble plain.jpg" alt="" />
                             </div>
                         </div>
                     </div>
@@ -105,13 +105,13 @@ const FullScreenNav = () => {
                         <div className='movelink pointer-events-none  absolute flex top-0 gap-0 -top-px overflow-hidden whitespace-nowrap'>
                             <div className='moveX min-w-max bg-[#F0FF7C] text-black pt-2 leading-[0.8] flex items-center'>
                                 &nbsp;<h2 className='whitespace-nowrap font-[font2] text-[9vw] uppercase'>POUR ENVOYER UN FAX</h2>&nbsp;
-                                <img className='h-19 w-50 rounded-full object-cover' src="../public/img/navimg/bag.jpg" alt="" />
+                                <img className='h-19 w-50 rounded-full object-cover' src="/bag.jpg" alt="" />
                                 &nbsp;<h2 className='whitespace-nowrap font-[font2] text-[9vw] uppercase'>POUR ENVOYER UN FAX</h2>&nbsp;
-                                <img className='h-19 w-50 rounded-full object-cover' src="../public/img/navimg/curly hair.jpg" alt="" />
+                                <img className='h-19 w-50 rounded-full object-cover' src="/curly hair.jpg" alt="" />
                                 &nbsp;<h2 className='whitespace-nowrap font-[font2] text-[9vw] uppercase'>POUR ENVOYER UN FAX</h2>&nbsp;
-                                <img className='h-19 w-50 rounded-full object-cover' src="../public/img/navimg/bag.jpg" alt="" />
+                                <img className='h-19 w-50 rounded-full object-cover' src="/bag.jpg" alt="" />
                                 &nbsp;<h2 className='whitespace-nowrap font-[font2] text-[9vw] uppercase'>POUR ENVOYER UN FAX</h2>&nbsp;
-                                <img className='h-19 w-50 rounded-full object-cover' src="../public/img/navimg/curly hair.jpg" alt="" />
+                                <img className='h-19 w-50 rounded-full object-cover' src="/curly hair.jpg" alt="" />
                             </div>
                         </div>
                     </div>
@@ -120,13 +120,13 @@ const FullScreenNav = () => {
                         <div className='movelink pointer-events-none  absolute flex top-0 gap-0 -top-px overflow-hidden whitespace-nowrap'>
                             <div className='moveX min-w-max bg-[#F0FF7C] text-black pt-2 leading-[0.8] flex items-center'>
                                 &nbsp;<h2 className='whitespace-nowrap font-[font2] text-[9vw] uppercase'>LIRE LES ARTICLES</h2>&nbsp;
-                                <img className='h-19 w-50 rounded-full object-cover' src="../public/img/navimg/marble plain.jpg" alt="" />
+                                <img className='h-19 w-50 rounded-full object-cover' src="/marble plain.jpg" alt="" />
                                 &nbsp;<h2 className='whitespace-nowrap font-[font2] text-[9vw] uppercase'>LIRE LES ARTICLES</h2>&nbsp;
-                                <img className='h-19 w-50 rounded-full object-cover' src="../public/img/navimg/typing.jpg" alt="" />
+                                <img className='h-19 w-50 rounded-full object-cover' src="/typing.jpg" alt="" />
                                 &nbsp;<h2 className='whitespace-nowrap font-[font2] text-[9vw] uppercase'>LIRE LES ARTICLES</h2>&nbsp;
-                                <img className='h-19 w-50 rounded-full object-cover' src="../public/img/navimg/marble plain.jpg" alt="" />
+                                <img className='h-19 w-50 rounded-full object-cover' src="/marble plain.jpg" alt="" />
                                 &nbsp;<h2 className='whitespace-nowrap font-[font2] text-[9vw] uppercase'>LIRE LES ARTICLES</h2>&nbsp;
-                                <img className='h-19 w-50 rounded-full object-cover' src="../public/img/navimg/typing.jpg" alt="" />
+                                <img className='h-19 w-50 rounded-full object-cover' src="/typing.jpg" alt="" />
                             </div>
                         </div>
                     </div>
