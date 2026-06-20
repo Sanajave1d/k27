@@ -22,7 +22,7 @@ const Blogue = () => {
             <div className="w-full p-3">
                 <div className="flex lg:flex-row flex-col gap-3">
                     <div className="lg:w-[49%] w-full ">
-                        <img className='rounded-[8%] w-full lg:h-[70vh] h-[30vh] object-cover' src="../public/img/navimg/typing.jpg" alt="" />
+                        <img className='rounded-[8%] w-full lg:h-[70vh] h-[30vh] object-cover' src="/img/navimg/typing.jpg" alt="" />
                         <div className="flex flex-col">
                             <div className="flex gap-4 pt-5  items-center">
                                 <div className="lg:w-[1vw] w-[4vw] h-[4vw] lg:h-[1vw] bg-black rounded-full "></div>
@@ -38,7 +38,7 @@ const Blogue = () => {
                         </div>
                     </div>
                     <div className="lg:w-[49%] w-full ">
-                        <img className='rounded-[8%] w-full lg:h-[70vh] h-[30vh] object-cover' src="../public/img/navimg/virtual hand.png" alt="" />
+                        <img className='rounded-[8%] w-full lg:h-[70vh] h-[30vh] object-cover' src="/img/navimg/virtual hand.png" alt="" />
                         <div className="flex flex-col">
                             <div className="flex gap-4 pt-5  items-center">
                                 <div className="lg:w-[1vw] w-[4vw] h-[4vw] lg:h-[1vw] bg-black rounded-full "></div>
@@ -56,7 +56,7 @@ const Blogue = () => {
                 </div>
                 <div className="flex lg:flex-row flex-col pt-5 gap-3">
                     <div className="lg:w-[49%] w-full">
-                        <img className='rounded-[8%] w-full lg:h-[70vh] h-[30vh] object-cover' src="../public/img/navimg/girl.jpg" alt="" />
+                        <img className='rounded-[8%] w-full lg:h-[70vh] h-[30vh] object-cover' src="/img/navimg/girl.jpg" alt="" />
                         <div className="flex flex-col">
                             <div className="flex gap-4 pt-5  items-center">
                                 <div className="lg:w-[1vw] w-[4vw] h-[4vw] lg:h-[1vw] bg-black rounded-full "></div>

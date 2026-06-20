@@ -11,15 +11,15 @@ const Agence = () => {
   const lolRef = useRef(null)
 
   const imageArray = [
-    '../public/img/Carl.jpg',
-    '../public/img/CAMILLE.jpg',
-    '../public/img/ChantalG.jpg',
-    '../public/img/joel.jpg',
-    '../public/img/MEGGIE.jpg',
-    '../public/img/MEL.jpg',
-    '../public/img/Michele.jpg',
-    '../public/img/Olivier.jpg',
-    '../public/img/CAMILLE.jpg',
+    '/img/Carl.jpg',
+    '/img/CAMILLE.jpg',
+    '/img/ChantalG.jpg',
+    '/img/joel.jpg',
+    '/img/MEGGIE.jpg',
+    '/img/MEL.jpg',
+    '/img/Michele.jpg',
+    '/img/Olivier.jpg',
+    '/img/CAMILLE.jpg',
   ]
   gsap.registerPlugin(ScrollTrigger)
 
